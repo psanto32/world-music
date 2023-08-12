@@ -13,3 +13,5 @@ https://tv.city.bg/play/tshls/citytv/3.m3u8
 https://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/chunklist_b5320000.m3u8?hls_proxy_host=eb206973813d3e197c845d678648b251
 #EXTINF:-1 tvg-id="Xite.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",Xite (UK/NL)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Xite.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",BALKANIKA TESTE (UK/NL)
+http://195.74.93.252/live/play/UVU1MWFYSjNSM1ZQTDFOQ1VIRjJMMDV4VlZoak1IQXZkMWQ0VGpod00xZ3JWMk16WmtaNU1HOVBTVDA9/56156
