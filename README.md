@@ -2,9 +2,11 @@
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="Music",1HD Music Television (Russia) 
 https://live-3.otcnet.ru/onehdmulti/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Music",PlayTv (Brazil)
-https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="http://stream.4fun.tv:8888/" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.pinimg.com/originals/13/01/04/130104d671a71f30c36bf86827c17f3b.png" group-title="Music",4Fun TV (Poland)
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-id="http://stream.4fun.tv:8888/" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.pinimg.com/originals/13/01/04/130104d671a71f30c36bf86827c17f3b.png" group-title="Music",4Fun TV HD (Poland)
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="tv.city.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://www.city.bg/theme_assets/city/images/sharing/radio_default_banner.jpg" group-title="Music",City Tv (Bulgaria)
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Music",Europa Plus TV (Russia)
