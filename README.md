@@ -26,8 +26,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:26:1F&stream=44063&extension
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-atomic-tv.jpg?itok=vHiSqwOb" group-title="Music",Atomic TV (Romania)
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",KISS TV (Romania)
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jpG-OWQZCA5y7d3lCAjfY3Aq255260dOJOVl5F8o3fERpEYAhf_z6kRx7oetz2n3YU0" group-title="Music",Company TV (Italy)
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w386300843_b2128000_slita.m3u8?FLID=1
 
 
