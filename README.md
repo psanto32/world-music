@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="Music",1HD Music Television (Russia) 
 https://live-3.otcnet.ru/onehdmulti/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Music",PlayTv (Brazil)
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+http://38.110.1.86/live/Manga100/0712051/49281.m3u8?token=TkEKBUBYEAkTAQpeVVMBUVALDVdTAwYEUVUHAAFVB1cBU1MAVQFRUFQWH0QVRUpSVV5qWlITCQQLAl5XHhRERlARPQ1XEggRAAECXlYFGhsWR1xeUxMJAB4SFg9WFAsXBFtSVQUSHhFUTEcDFF9ZW2tXUEVfUlYSCF4TCl4aE1pbPAYBXlFcVxMOEVZEHRpeR0MXCRRyX19HVAAKU0RUGRUqDAcdEh4RU11HFAdFXRUOEQcEDwIRHBBTCRNcQkNMF1lAMWASHhFUTEcDCEJRWFoRDxFbAkYIEBxED0FpQ1BGFxABUl1XQRMOEVZEHRpaVUtqUFlfXVVRRA8JXEUTDxdSQEgRXV1dWEBcFDlBUVMWCRcCBgYKARBN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Music",PlayTv (Brazil)
 http://rdns.tv:80/live/Manga100/0712051/49281.m3u8
 #EXTINF:-1 tvg-id="http://stream.4fun.tv:8888/" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.pinimg.com/originals/13/01/04/130104d671a71f30c36bf86827c17f3b.png" group-title="Music",4Fun TV (Poland)
