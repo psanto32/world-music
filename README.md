@@ -35,5 +35,6 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w38630084
 https://stream2.xdevel.com/video1s3-7/stream/chunks.m3u8?nimblesessionid=216935132
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY4KkzNYek8vbtklIpbyLs08I8iVBwwAE4C7R746UVyin8RgbIEncuatEUJ-KJkDgbsQ&usqp=CAU" group-title="Music",Radio tv 51 (Italy)
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w724784937.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wUC4Z39e2-jHYPZDmurYbDf6ep4IVtjFcQ&s" group-title="Music",NGR 91 (Greece)
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1160488787.m3u8
 
