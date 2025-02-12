@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="Music",1HD Music Television (Russia) 
-https://live-3.otcnet.ru/onehdmulti/index.m3u8
+https://msk2.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Mzk0NzA4NTgsImlhdCI6MTczOTM4NDQ1OCwiY2lkIjo4MSwidWlkIjo4OTM0MjAzNDksInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.6oJ6TX0H__SBUPlsv7xwow3IwtvFRCmaTxfOGaonDA4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Music",PlayTv (Brazil)
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcuaZ4y6sLsQZ5rLPWkg6B1xMB3acaq1DbtT3wcbHdeHQKWEwyo1--v2R&s=10" group-title="Music",PlayTv (Brazil)
@@ -31,5 +31,9 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jpG-OWQZCA5y7d3lCAjfY3Aq255260dOJOVl5F8o3fERpEYAhf_z6kRx7oetz2n3YU0" group-title="Music",Company TV (Italy)
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w386300843_b2128000_slita.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLWw07P9swpsnwhHgFWGDuwGemhWdGOCQ3g&s" group-title="Music",Radio Taormina (Italy)
+https://stream2.xdevel.com/video1s3-7/stream/chunks.m3u8?nimblesessionid=216935132
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY4KkzNYek8vbtklIpbyLs08I8iVBwwAE4C7R746UVyin8RgbIEncuatEUJ-KJkDgbsQ&usqp=CAU" group-title="Music",Radio tv 51 (Italy)
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w724784937.m3u8
 
 
